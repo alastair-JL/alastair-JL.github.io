@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Home on A Map The Size Of Paris</title>
-    <link>https://alastair-jl.github.io/</link>
+    <link>https://example.com/</link>
     <description>Recent content in Home on A Map The Size Of Paris</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 29 Aug 2019 17:42:36 +0200</lastBuildDate>
     
-	<atom:link href="https://alastair-jl.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Publications</title>
-      <link>https://alastair-jl.github.io/pastpapers/</link>
+      <link>https://example.com/pastpapers/</link>
       <pubDate>Thu, 29 Aug 2019 17:42:36 +0200</pubDate>
       
-      <guid>https://alastair-jl.github.io/pastpapers/</guid>
+      <guid>https://example.com/pastpapers/</guid>
       <description>Publications Timing and Shape of Stochastic Autocatalytic Burst Formation,
-A. Jamieson-Lane &amp;amp; E. Cytrnbaum. Submitted to Chaos.
+A. Jamieson-Lane &amp;amp; E. Cytrnbaum. Chaos, 2019.
 Deterministic and Stochastic Modeling of the MinSystem for Cell Division,
 A. Jamieson-Lane, UBC PhD thesis, 2019
 AnthroTools: An R Package for Cross-Cultural Ethnographic Data Analysis
-B.G. Purzycki &amp;amp; A. Jamieson-Lane, Cross-Cultural Research, 2017, Vol. 51(1) 51 –74
+B.G. Purzycki &amp;amp; A. Jamieson-Lane, Cross-Cultural Research, 2017
 Localized Spot Patterns on the Sphere for Reaction-Diffusion Systems: Theory and Open Problems
-A. Jamieson-Lane, P.</description>
+A. Jamieson-Lane, P. Trinh &amp;amp; M. Ward (book chapter in Mathematical and Computational Approaches in Advancing Modern Science and Engineering</description>
     </item>
     
     <item>
       <title>Contact and CV</title>
-      <link>https://alastair-jl.github.io/aboutme/</link>
+      <link>https://example.com/aboutme/</link>
       <pubDate>Thu, 29 Aug 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://alastair-jl.github.io/aboutme/</guid>
+      <guid>https://example.com/aboutme/</guid>
       <description> Contact infromation: Email: alastair.jamieson-lane@uni-oldenburg.de
 Office: W15-1-145
 Mail address:
@@ -41,20 +41,20 @@ Campus Wechloy, Gebäude W15 Carl-von-Ossietzky-Straße 9 - 11 26111 Oldenburg G
     
     <item>
       <title>Research</title>
-      <link>https://alastair-jl.github.io/research/</link>
+      <link>https://example.com/research/</link>
       <pubDate>Thu, 29 Aug 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://alastair-jl.github.io/research/</guid>
+      <guid>https://example.com/research/</guid>
       <description>Current Research Currently, I am working with the University of Oldenburg and UMCG in Groningen, studying the evolution and spread of antibiotic resistence. My most recent projects are focused on studying how horizontal gene transfer effects evolutionary dynamics in microbes, and how knowledge of network structure (on a variety of scales) can be used to predict and control the spread of infections.
 Past Research Pattern Formation In the Min System Symettry breaking and pattern formation are critical to the existence of complex life in the world around us, and have fascinated researchers for many years.</description>
     </item>
     
     <item>
       <title>Teaching</title>
-      <link>https://alastair-jl.github.io/teaching/</link>
+      <link>https://example.com/teaching/</link>
       <pubDate>Thu, 29 Aug 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://alastair-jl.github.io/teaching/</guid>
+      <guid>https://example.com/teaching/</guid>
       <description> For Students I am not currently teaching.
 Previously I have taught:
  Multivariate Calculus at University of British Columbia
