@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on A Map The Size Of Paris</title>
+    <link>https://alastair-jl.github.io/</link>
+    <description>Recent content in Home on A Map The Size Of Paris</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 29 Aug 2019 17:42:36 +0200</lastBuildDate>
+    
+	<atom:link href="https://alastair-jl.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Publications</title>
+      <link>https://alastair-jl.github.io/pastpapers/</link>
+      <pubDate>Thu, 29 Aug 2019 17:42:36 +0200</pubDate>
+      
+      <guid>https://alastair-jl.github.io/pastpapers/</guid>
+      <description>Publications The Gossip Paradox: why do bacteria share genes?,
+A. Jamieson-Lane &amp;amp; B. Blasius. Submitted to arXiv, Dec 2020; currently in review for publictation.
+Calculation of epidemic arrival time distributions using branching processes,
+A. Jamieson-Lane &amp;amp; B. Blasius. Physical Review E, 2020.
+Effects of age-targeted sequestration for COVID-19,
+A. Jamieson-Lane &amp;amp; E. Cytrnbaum. Journal of Biological Dynamics, 2020.
+Timing and Shape of Stochastic Autocatalytic Burst Formation,
+A. Jamieson-Lane &amp;amp; E.</description>
+    </item>
+    
+    <item>
+      <title>Contact and CV</title>
+      <link>https://alastair-jl.github.io/aboutme/</link>
+      <pubDate>Thu, 29 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://alastair-jl.github.io/aboutme/</guid>
+      <description> Contact information: Email: alastair.jamieson-lane@uni-oldenburg.de
+Office: W15-1-145
+Mail address:
+Campus Wechloy, Gebäude W15 Carl-von-Ossietzky-Straße 9 - 11 26111 Oldenburg Germany  Curriculum Vitae </description>
+    </item>
+    
+    <item>
+      <title>Research</title>
+      <link>https://alastair-jl.github.io/research/</link>
+      <pubDate>Thu, 29 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://alastair-jl.github.io/research/</guid>
+      <description>Current Research Currently, I am working with the University of Oldenburg and UMCG in Groningen, studying the evolution and spread of antibiotic resistance.
+Epidemic Spread Through With the recent global spread of COVID-19, there has been a dramatic upsurge in the need for epidemic forecasting, both in the year 2020, and in years and decades to come, when facing future global pandemics. One of the central questions of epidemic forecasting is the question of ``how long will an epidemic take to spread from A to B?</description>
+    </item>
+    
+    <item>
+      <title>Teaching</title>
+      <link>https://alastair-jl.github.io/teaching/</link>
+      <pubDate>Thu, 29 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://alastair-jl.github.io/teaching/</guid>
+      <description> For Students I am not currently teaching.
+Previously I have taught:
+ Multivariate Calculus at University of British Columbia
+ Derivative Calculus for Life Scientist at University of British Columbia
+ Derivative Calculus for Physical Sciences and Engineering at University of British Columbia
+ STAR course (University mathematics for highschool students) at University of Canterbury (NZ)
+  </description>
+    </item>
+    
+  </channel>
+</rss>
