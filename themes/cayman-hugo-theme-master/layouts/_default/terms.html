@@ -1,0 +1,14 @@
+{{ define "main" }}
+  <h4>{{ .Title }}</h4>
+  {{ .Content }}
+  <ul>
+    {{ range .Data.Terms.Alphabetical }}
+      <li>
+        {{ printf "(%d)" .Count }}
+        <a href="{{ .Page.RelPermalink }}">
+          {{ .Page.Title }}
+        </a>
+      </li>
+    {{ end }}
+  </ul>
+{{ end }}

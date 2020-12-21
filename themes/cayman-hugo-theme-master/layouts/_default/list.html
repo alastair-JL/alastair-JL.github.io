@@ -1,0 +1,16 @@
+{{ define "main" }}
+<h4>{{ .Title }}</h4>
+  {{ .Content }}
+<ul>
+{{ $pages := .Pages }}
+{{ range $pages.ByPublishDate.Reverse }}
+  <li>
+    {{ $dateFormat := $.Site.Params.dateFormat | default "Jan 2, 2006" }}
+    {{ .PublishDate.Format $dateFormat }}
+    <a href="{{ .Permalink }}">
+      {{ .Title }}
+    </a>
+  </li>        
+{{ end }}
+</ul>
+{{ end }}
