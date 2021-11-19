@@ -12,10 +12,10 @@ A. Jamieson-Lane & B. Blasius. Submitted to [arXiv, Dec 2020](https://arxiv.org/
 A. Jamieson-Lane & B. Blasius. [Physical Review E, 2020](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.102.042301).
 
 **[Effects of age-targeted sequestration for COVID-19](/PastPapers/AgeTargeted.pdf)**,
-A. Jamieson-Lane & E. Cytrnbaum. [Journal of Biological Dynamics, 2020](https://www.tandfonline.com/doi/full/10.1080/17513758.2020.1795285).
+A. Jamieson-Lane & E. Cytrynbaum. [Journal of Biological Dynamics, 2020](https://www.tandfonline.com/doi/full/10.1080/17513758.2020.1795285).
 
 **[Timing and Shape of Stochastic Autocatalytic Burst Formation](/PastPapers/StochasticBurstFormation.pdf)**,
-A. Jamieson-Lane & E. Cytrnbaum. [Chaos, 2019](https://doi.org/10.1063/1.5123343).
+A. Jamieson-Lane & E. Cytrynbaum. [Chaos, 2019](https://doi.org/10.1063/1.5123343).
 
 
 **[Deterministic and Stochastic Modeling of the MinSystem for Cell Division](https://open.library.ubc.ca/cIRcle/collections/ubctheses/24/items/1.0376798)**,
