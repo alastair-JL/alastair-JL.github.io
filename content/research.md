@@ -1,23 +1,8 @@
 ---
-title: "Research"
+title: "Past Research"
 date: 2019-08-29
 draft: false
 ---  
-# Current Research
-
-Currently, I am working with the [University of Oldenburg](https://uol.de/) and [UMCG in Groningen](https://www.umcg.nl/EN/corporate/paginas/default.aspx), studying the evolution and spread of antibiotic resistance.   
-
-
-## Epidemic Spread Through 
-With the recent global spread of COVID-19, there has been a dramatic upsurge in the need for epidemic forecasting, both in the year 2020, and in years and decades to come, when facing future global pandemics. One of the central questions of epidemic forecasting is the question of ``how long will an epidemic take to spread from A to B?'' - if we observe an epidemic in Stockholm, how long will it take to spread to Mumbia?
-This question is tied deeply to the existence of the global flight network, and human behavior. In a [recent paper](/PastPapers/EpidemicArrival.pdf) I was able to calculate both the average epidemic arrival time, and uncertainty in this prediction.
-
-![your_img](/Images/CurrentResearchCartoon.png#center)
-
-## Horizontal Gene transfer and the Gossip Paradox
-Unlike Eukaryotic cells (such as plants, animals and fungi), Bacterial cells contain two distinct types of DNA: Chromosomal DNA, which encodes the core genes required for a cell to survive, and Plasmid DNA, which codes accesory genes such as [antibiotic resistance](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2268074/), [virulence factors](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2786578/), or [novel biochemical pathways](https://academic.oup.com/nar/article/37/2/e16/2410275).
-
-While Chromosomal DNA is locked tight within a cell, plasmid genes are frequently passed around between bacteria, in much the same way that humans might share books, advice, or other forms of knowledge. [Recently](https://arxiv.org/abs/2012.05071) I have been studying the evolutionary drivers behind this process, trying to puzzle out, when and why Bacteria expend such effort in sharing DNA with their competitors; cells they will inevitably need to compete with for generations to come.
 
 
 
@@ -31,7 +16,7 @@ A particularly beautiful example of this is the Min system for cell division, in
 
 ![your_img](/Images/BurstsAppearForWeb.png#center)
 
-As part of my PhD thesis with [Eric Cytrnbaum](http://www.math.ubc.ca/~cytryn/index.shtml), I investigated possible mechanisms for ``Burst'' like pattern formation- using Large deviation theory to demonstrate how autocatalytic systems near a bifurcation point can quickly form circular bursts as seen in Vecchiarelli's experiments. 
+As part of my PhD thesis with [Eric Cytrynbaum](http://www.math.ubc.ca/~cytryn/index.shtml), I investigated possible mechanisms for ``Burst'' like pattern formation- using Large deviation theory to demonstrate how autocatalytic systems near a bifurcation point can quickly form circular bursts as seen in Vecchiarelli's experiments. 
 
 ![your_img](/Images/PDEBursts.png#center)
 
@@ -45,11 +30,11 @@ My Master's degree research with [Christoph Hauert](https://www.math.ubc.ca/~hau
 
 During my thesis, [I was able to prove](https://www.sciencedirect.com/science/article/pii/S0022519315003082) that the superstar can provide arbitrarily strong evolutionary pressure in a suitable limit, however this approach to infinity is significantly slower than originally calculated, and thus in agreement with [the counterexample provided by Díaz et al](https://royalsocietypublishing.org/doi/full/10.1098/rspa.2013.0193).
 
+  
 
+## Collaborations Outside of Mathematics
 
-## Collaborations outside of mathematics
-
-Mathematics is fun, but I also do my best to find collaborations outside of mathematics whenever possible. Below are a couple of my collaborations, if you are currently working on an interesting project which could potentially use a little bit of mathematics, feel free to [get in touch](mailto:alastair.jamieson-lane@uni-oldenburg.de).
+Mathematics is fun, but I also do my best to find collaborations outside of mathematics whenever possible. Below are a couple of my collaborations, if you are currently working on an interesting project which could potentially use a little bit of mathematics, feel free to [get in touch](mailto:alastair.jamieson-lane@auckland.ac.nz).
 
 
 ![your_img](/Images/AntMatrixB.png#floatright)

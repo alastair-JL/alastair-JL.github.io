@@ -64,7 +64,7 @@ extensions = ["hardLineBreak"]
     url = "/"
     weight = 1
   [[menu.nav]]
-    name = "Research"
+    name = "Past Research"
     url = "/research/"
     weight = 2
   [[menu.nav]]

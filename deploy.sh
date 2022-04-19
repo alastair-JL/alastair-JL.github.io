@@ -5,11 +5,15 @@ set -e
 
 printf "\033[0;32mDeploying updates to GitHub...\033[0m\n"
 
+mv docs/ public
+
 # Build the project.
 hugo -t cayman-hugo-theme-master # if using a theme, replace with `hugo -t <YOURTHEME>`
 
+mv public/ docs
+
 # Go To Public folder
-cd public
+cd docs
 
 # Add changes to git.
 git add .
