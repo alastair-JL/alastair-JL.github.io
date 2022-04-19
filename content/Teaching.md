@@ -5,6 +5,7 @@ draft: false
 --- 
 # Teaching
 I am currently teaching:
+
 * [Partial Differential Equations](https://canvas.auckland.ac.nz/courses/74529) at University of Auckland
 
 * [Inverse Problems and Stochastic Differential Equations](https://canvas.auckland.ac.nz/courses/74452) at University of Auckland
@@ -15,6 +16,7 @@ I've also been running virtual tutorials in [Gather.town](https://gather.town/ap
 By the looks of it, we'll be back on campus in person soon, so you'll be able to attend tutorials in person.
 
 Previously I have taught:
+
 * [Computational Mathematics](https://canvas.auckland.ac.nz/courses/62389) at University of Auckland
 
 * [Numerical Computation](https://canvas.auckland.ac.nz/courses/62027) at University of Auckland
