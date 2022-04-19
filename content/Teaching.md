@@ -14,7 +14,6 @@ If you are in either of those courses, go check out their canvas pages.
 I've also been running virtual tutorials in [Gather.town](https://gather.town/app/dRtTCqio62mFFdnm/AucklandMathsStudySpace). 
 By the looks of it, we'll be back on campus in person soon, so you'll be able to attend tutorials in person.
 
-
 Previously I have taught:
 * [Computational Mathematics](https://canvas.auckland.ac.nz/courses/62389) at University of Auckland
 
